@@ -1,0 +1,12 @@
+{
+  "zones": [
+    {
+      "name": "HolyBlessedX",
+      "default": true,
+      "domains": ["holyblessedx.com"],
+      "provider": "twitter",
+      "redirect": null,
+      "color": "#6363ff"
+    }
+  ]
+}
