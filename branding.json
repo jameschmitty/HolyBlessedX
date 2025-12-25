@@ -5,7 +5,7 @@
       "default": true,
       "domains": ["holyblessedx.com"],
       "provider": "twitter",
-      "redirect": null,
+      "redirect": "https://github.com/jameschmitty/HolyBlessedX",
       "color": "#6363ff"
     }
   ]
